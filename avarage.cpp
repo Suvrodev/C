@@ -11,4 +11,5 @@ main()
    }
     float Avarage=(float)Total/10;
     printf("\n Average Value=%.1f",Avarage);
+    printf("\n Average Value=%.1f",Avarage);
 }
