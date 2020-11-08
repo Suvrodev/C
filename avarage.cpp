@@ -1,6 +1,7 @@
 #include<stdio.h>
 main()
 {
+   printf("SUvrodev Howlader");
    int Array[100]={1,2,3,4,5,6,7,8,9,10};
    int i,Total=0;
    printf("After Computing Element=");
